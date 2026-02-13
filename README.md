@@ -17,4 +17,5 @@ This project is a responsive front page for a laundry service website built usin
   `index.html`
   `style.css`
   `images`
+   `pngtree-washing-machine-activity-png-image_8953154.png`
   `README.md`
