@@ -22,7 +22,7 @@
     margin: 0;
 }
 .nav-item{
-    margin-right: 40px;
+    margin-right: 0 rem;
     align-items: flex-start;
 }
 .nav-link{
@@ -56,7 +56,7 @@ a:hover{
     justify-content: flex-start;
     width: 100%;
     margin-top: 30px;
-    height: calc(100vh-70px);
+    height: calc(100vh - 70px);
 }
 /* .left-div{
     margin-left: 65px;
@@ -105,3 +105,4 @@ a:hover{
     background-color: grey;
     color:aliceblue ;
 }
+
